@@ -1,6 +1,6 @@
 cask "waveprompt" do
-  version "1.1"
-  sha256 "fc096ab3c169c18992dfce17f8c6836eb52a0cd4f1ac760df0ad0db597c343cd"
+  version "1.2"
+  sha256 "0abb0cb2b5455b5d15e288257d221feda6010fd914aa57a4754ec551ecfed713"
 
   depends_on :macos
 
