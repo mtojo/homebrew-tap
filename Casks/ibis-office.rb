@@ -1,6 +1,6 @@
 cask "ibis-office" do
-  version "0.8.3"
-  sha256 "a389d4c30a8b4e501ae59a4bd7acc4b95a6e3ba70ba5672c84413f186e5c6b4f"
+  version "0.8.4"
+  sha256 "ae14224f8b14576533fb1801d307a628f4e3b6747f40a35fabff5ace1364f8cb"
 
   url "https://github.com/ibisjp/ibis-office/releases/download/v#{version}/ibisOffice-#{version}-macOS.zip"
   name "ibisOffice"
