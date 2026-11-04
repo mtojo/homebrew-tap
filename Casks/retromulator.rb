@@ -1,6 +1,6 @@
 cask "retromulator" do
-  version "2.1"
-  sha256 "eec0ef6eadeb6d3c915cf3b5d866bce106ef7437dd4b632280f239d1e8dc0e5a"
+  version "2.2"
+  sha256 "4d3c4dfe670cec84f6f03b5153f7692e10e7141cbfb5d4acb213b9e8492bb500"
 
   url "https://download.discodsp.com/Retromulator%20#{version}.pkg"
   name "Retromulator"
