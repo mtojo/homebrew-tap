@@ -1,6 +1,6 @@
 cask "pitch-net" do
-  version "0.7.5"
-  sha256 "1a20d74758fe0fec69bcfaa99d6cbecc8c7e12184c7a3fdbb5ead6cd3dc9df81"
+  version "0.8.0"
+  sha256 "45c6268703ede3b4435438f16252ecf88e5c4f0240f67ffa33f795ddc1b7b676"
 
   url "https://github.com/SessionLoops/PitchNet/releases/download/v#{version}/PitchNet_Installer.pkg"
   name "PitchNet"
