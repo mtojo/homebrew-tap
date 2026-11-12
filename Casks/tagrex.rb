@@ -1,6 +1,6 @@
 cask "tagrex" do
-  version "1.3.4"
-  sha256 "b0d1364ae3eededff735d0046b8fea84d0338f8336ee84ad2f758bbc8ea5d8a4"
+  version "1.4.0"
+  sha256 "307c821a7f6bf75cdceff8b5e76dbe4c5441bd095dd48e6b992a2402e3234c1a"
 
   url "https://github.com/tagrex/tagrex/releases/download/v#{version}/TagRex_#{version}_universal.dmg"
   name "TagRex"
