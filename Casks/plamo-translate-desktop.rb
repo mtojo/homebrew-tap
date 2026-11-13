@@ -1,6 +1,6 @@
 cask "plamo-translate-desktop" do
-  version "0.5.0"
-  sha256 "d3f8c3ef755d27877b70e08b151c085cf69d74eaf9f4c686ca23aca1a9805228"
+  version "0.6.0"
+  sha256 "db9e4e366c0f1412d54be957fde4405250c14f81807f03bb647b6feae6b66b8a"
 
   url "https://github.com/tanakh/plamo-translate-desktop/releases/download/v#{version}/plamo-translate-desktop-#{version}-macos-arm64.dmg"
   name "PLaMo Translate Desktop"
