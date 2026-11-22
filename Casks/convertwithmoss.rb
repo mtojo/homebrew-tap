@@ -1,9 +1,9 @@
 cask "convertwithmoss" do
   arch intel: "-intel"
 
-  version "20.3.0"
-  sha256 arm:   "bfa43ae156b0155ecf4f4bd66da235314d5affd4a2b753735c9c2a8858caf3d1",
-         intel: "464d5c47e042879e480c902367c5286b5b3baba7a5725aa0cdf45db18654eef5"
+  version "21.0.0"
+  sha256 arm:   "739c16bed25a28a3a3c17b1727a3e6e484a864086341cafdf7e3b9cfc1d8f8c9",
+         intel: "92518ae70a8cc16fcbfe13e8b05205080debbabccf8244b8782a738bfa64d6c0"
 
   depends_on :macos
 
