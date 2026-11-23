@@ -1,6 +1,6 @@
 cask "airwindows-consolidated" do
-  version "2026-11-21-f2cce91"
-  sha256 "21416a18c66159f498a54da969ea836dbdc28aedc844bc5e8c547ca4a4921a54"
+  version "2026-11-22-91b3343"
+  sha256 "08d826a8967f4e4635bec48c361c5889ebda7e0af2d747b26de4ad6c8d9e204d"
 
   url "https://github.com/baconpaul/airwin2rack/releases/download/DAWPlugin/airwindows-consolidated-macOS-#{version}.dmg"
   name "Airwindows Consolidated DAW Plugin"
